@@ -185,7 +185,7 @@
         "movie_name": "Titanic",
         "movie_description": "Rose, who is being forced to marry a wealthy man, falls in love with Jack, a talented artist, aboard the unsinkable Titanic. Unfortunately, the ship hits an iceberg, endangering their lives.",
         "release_date": "19-12-1997",
-        "genre": "romantic",
+        "genre": "romance",
         "imdb_rating": "7.9"
     },
     {
@@ -194,7 +194,7 @@
         "movie_name": "Pride & Prejudice",
         "movie_description": "Elizabeth Bennett is a strong-willed yet sensible young woman. At a local ball, she encounters a wealthy young man, Mr Fitzwilliam Darcy, who is arrogant, and they develop an unusual relationship.",
         "release_date": "16-09-2005",
-        "genre": "romantic",
+        "genre": "romance",
         "imdb_rating": "7.8"
     },
     {
@@ -203,7 +203,7 @@
         "movie_name": "Romeo + Juliet",
         "movie_description": "The rivalry between Verona's two well-established families, the Capulets and the Montagues, affects the relationship of their children Romeo and Juliet.",
         "release_date": "27-10-1996",
-        "genre": "romantic",
+        "genre": "romance",
         "imdb_rating": "6.7"
     },
     {
@@ -212,7 +212,7 @@
         "movie_name": "Friends With Benefits",
         "movie_description": "Jamie, a New York-based headhunter, gets Dylan to take a job at GQ. They soon become friends but things get complicated after the individually jaded lovers add sex to their relationship.",
         "release_date": "09-09-2011",
-        "genre": "romantic",
+        "genre": "romance",
         "imdb_rating": "6.5"
     },
     {
@@ -221,7 +221,7 @@
         "movie_name": "No Strings Attached",
         "movie_description": "After a break-up, Adam is looking for a casual relationship when he runs into Emma. They agree to maintain a strictly physical association, but things get complicated when they both fall in love.",
         "release_date": "11-02-2011",
-        "genre": "romantic",
+        "genre": "romance",
         "imdb_rating": "6.2"
     }
 ]
